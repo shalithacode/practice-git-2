@@ -15,3 +15,10 @@ woring in feature branch
 from remort
 
 from locle
+
+///////////////////ADD NEW conflict/////////////////////////
+
+function substration(n1,n2){
+
+    return n1-n2
+}
