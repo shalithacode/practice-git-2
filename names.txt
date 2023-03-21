@@ -2,3 +2,7 @@ hello
 world
 
 //commmented
+
+after stash
+
+woring in feature branch
