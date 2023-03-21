@@ -1,8 +1,13 @@
 hello
 world
+<<<<<<< HEAD
 
 //commmented
 
 after stash
 
 woring in feature branch
+=======
+//add code from github
+//commmented
+>>>>>>> 375f7e1cd1f51bd5b5248ecc30df0a487149e529
