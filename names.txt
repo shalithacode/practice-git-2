@@ -5,19 +5,10 @@ hello
 world
 //add code from github
 //commmented
+funcction printText(){
+print("Hello world")
+}
 
-after stash
-//add code from vscode
-woring in feature branch
-
-///////////////////OLD/////////////////////////
-
-from remort
-
-from locle
-
-
-///////////////////ADD NEW conflict/////////////////////////
 
 function substration(n1,n2){
 
