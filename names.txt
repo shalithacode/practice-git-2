@@ -15,3 +15,10 @@ woring in feature branch
 from remort
 
 from locle
+
+/////////////////////NEW CONFLICT/////////////////////////////////
+
+function addition(n1,n2){
+
+    return n1+n2
+}
