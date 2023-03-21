@@ -16,7 +16,13 @@ from remort
 
 from locle
 
-/////////////////////NEW CONFLICT/////////////////////////////////
+
+///////////////////ADD NEW conflict/////////////////////////
+
+function substration(n1,n2){
+
+    return n1-n2
+}
 
 function addition(n1,n2){
 
