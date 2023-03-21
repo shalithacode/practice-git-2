@@ -2,3 +2,8 @@ hello
 world
 
 //commmented
+
+
+funcction printText(){
+print("Hello world")
+}
