@@ -1,13 +1,14 @@
+///////////////////OLD/////////////////////////
+
+
 hello
 world
-<<<<<<< HEAD
-
+//add code from github
 //commmented
 
 after stash
-
+//add code from vscode
 woring in feature branch
-=======
-//add code from github
-//commmented
->>>>>>> 375f7e1cd1f51bd5b5248ecc30df0a487149e529
+
+///////////////////OLD/////////////////////////
+
